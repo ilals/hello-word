@@ -1,2 +1,2 @@
 # hello-word
-Just obeying to de "hello-word"guide
+Just obeying to the "hello-word"guide
